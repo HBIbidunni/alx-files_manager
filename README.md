@@ -8,3 +8,4 @@ __retrieving file information.__
 ## Features
 - `User Authentication`: Secure user registration and login using hashed passwords.
 - `File Upload`: Upload files and manage storage.
+- `File Management`: List, retrieve, and delete files.
