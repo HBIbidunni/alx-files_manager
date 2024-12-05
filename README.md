@@ -10,3 +10,4 @@ __retrieving file information.__
 - `File Upload`: Upload files and manage storage.
 - `File Management`: List, retrieve, and delete files.
 - `Sharing`: Generate public links to share files.
+- `Folder Management`: Organize files into folders for better management.
