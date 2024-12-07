@@ -11,3 +11,4 @@ __retrieving file information.__
 - `File Management`: List, retrieve, and delete files.
 - `Sharing`: Generate public links to share files.
 - `Folder Management`: Organize files into folders for better management.
+- `Statistics`: Fetch user and file-related statistics.
