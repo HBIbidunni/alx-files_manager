@@ -12,3 +12,10 @@ __retrieving file information.__
 - `Sharing`: Generate public links to share files.
 - `Folder Management`: Organize files into folders for better management.
 - `Statistics`: Fetch user and file-related statistics.
+
+##  Usuage
+The main endpoints of the project are summarized below:
+
+1)  __Authentication__:
+- `POST /auth/register`: Register a new user.
+- `POST /auth/login`: Log in a user.
