@@ -19,3 +19,6 @@ The main endpoints of the project are summarized below:
 1)  __Authentication__:
 - `POST /auth/register`: Register a new user.
 - `POST /auth/login`: Log in a user.
+
+2) __File Management__:
+- `POST /files`: Upload a file.
