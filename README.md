@@ -22,3 +22,4 @@ The main endpoints of the project are summarized below:
 
 2) __File Management__:
 - `POST /files`: Upload a file.
+- `GET /files/:id`: Retrieve a file by __ID__.
