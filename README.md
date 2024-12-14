@@ -24,3 +24,4 @@ The main endpoints of the project are summarized below:
 - `POST /files`: Upload a file.
 - `GET /files/:id`: Retrieve a file by __ID__.
 - `GET /files`: List all files for a user.
+- `DELETE /files/:id`: Delete a file by __ID__.
