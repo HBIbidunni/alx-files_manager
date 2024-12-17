@@ -25,3 +25,6 @@ The main endpoints of the project are summarized below:
 - `GET /files/:id`: Retrieve a file by __ID__.
 - `GET /files`: List all files for a user.
 - `DELETE /files/:id`: Delete a file by __ID__.
+
+3) __Folder Management__
+- `POST /folders`: Create a new folder.
