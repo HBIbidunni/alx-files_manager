@@ -28,3 +28,4 @@ The main endpoints of the project are summarized below:
 
 3) __Folder Management__
 - `POST /folders`: Create a new folder.
+- `GET /folders`: List all folders.
