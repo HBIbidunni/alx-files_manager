@@ -14,7 +14,7 @@ __retrieving file information.__
 - `Statistics`: Fetch user and file-related statistics.
 
 ##  Usuage
-The main endpoints of the project are summarized below:
+The __main endpoints of the project__ are summarized below:
 
 1)  __Authentication__:
 - `POST /auth/register`: Register a new user.
