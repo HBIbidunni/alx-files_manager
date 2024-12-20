@@ -32,3 +32,6 @@ The __main endpoints of the project__ are summarized below:
 
 4) __Statistics__
 - `GET /stats`: Fetch user and file statistics.
+
+##  Project Structure
+
