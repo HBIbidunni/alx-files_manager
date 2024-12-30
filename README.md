@@ -34,4 +34,17 @@ The __main endpoints of the project__ are summarized below:
 - `GET /stats`: Fetch user and file statistics.
 
 ##  Project Structure
+Here are the files utilized in this project and their descriptions:
 
+```
+alx-files_manager/
+├── controllers/        # Contains API controller logic
+├── routes/             # Defines application routes
+├── tests/              # Test cases for the application
+├── utils/              # Utility functions
+├── server.js           # Create server setup and routing with Express
+├── worker.js           # Using Bull queues to process files and users asynchronously
+├── babel.config.js     # Configuration file
+└── package.json        # Project metadata and dependencies
+
+```
